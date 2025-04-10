@@ -56,8 +56,19 @@
         <mxCell id="xkapw7q-XKAlf6klXPq_-16" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xkapw7q-XKAlf6klXPq_-17" target="xkapw7q-XKAlf6klXPq_-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xkapw7q-XKAlf6klXPq_-17" value="检查作业状态" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="585" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xkapw7q-XKAlf6klXPq_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-18" value="&lt;div&gt;作业未批改？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="680" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
