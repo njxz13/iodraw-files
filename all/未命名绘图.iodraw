@@ -4,14 +4,23 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="xkapw7q-XKAlf6klXPq_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xkapw7q-XKAlf6klXPq_-0" target="xkapw7q-XKAlf6klXPq_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="xkapw7q-XKAlf6klXPq_-0" value="开始" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xkapw7q-XKAlf6klXPq_-1" target="xkapw7q-XKAlf6klXPq_-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xkapw7q-XKAlf6klXPq_-1" value="教师登录系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xkapw7q-XKAlf6klXPq_-2" value="检查教师权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="400" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
