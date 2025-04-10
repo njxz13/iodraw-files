@@ -67,6 +67,16 @@
             <mxPoint x="270" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-21" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xkapw7q-XKAlf6klXPq_-20">
+          <mxGeometry x="-0.0125" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xkapw7q-XKAlf6klXPq_-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xkapw7q-XKAlf6klXPq_-18" value="&lt;div&gt;作业未批改？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="680" width="80" height="80" as="geometry" />
         </mxCell>
