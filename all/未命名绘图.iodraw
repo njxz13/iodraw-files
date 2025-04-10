@@ -112,8 +112,19 @@
         <mxCell id="xkapw7q-XKAlf6klXPq_-29" value="&lt;div&gt;更新作业记录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="890" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xkapw7q-XKAlf6klXPq_-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xkapw7q-XKAlf6klXPq_-31" value="&#xa;&lt;div&gt;保存批改结果&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="210" y="990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-33" value="&lt;div&gt;返回批改成功信息&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1070" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xkapw7q-XKAlf6klXPq_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="210" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
