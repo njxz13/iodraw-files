@@ -45,7 +45,7 @@
         <mxCell id="xkapw7q-XKAlf6klXPq_-6" value="是否为教师" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="400" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xkapw7q-XKAlf6klXPq_-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xkapw7q-XKAlf6klXPq_-13" value="返回错误：无权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
