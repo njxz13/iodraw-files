@@ -10,7 +10,7 @@
         <mxCell id="5UzQDRIY67j25lv29dCC-2" value="name:String&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="5UzQDRIY67j25lv29dCC-1" vertex="1">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
         </mxCell>
-        <object label="+ field: type" age="int" id="5UzQDRIY67j25lv29dCC-4">
+        <object label="age:int" age="int" id="5UzQDRIY67j25lv29dCC-4">
           <mxCell style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="5UzQDRIY67j25lv29dCC-1" vertex="1">
             <mxGeometry y="52" width="140" height="26" as="geometry" />
           </mxCell>
