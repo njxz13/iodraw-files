@@ -1,96 +1,11 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lA4v5ta_gP_E8ftCJrEl">
-    <mxGraphModel dx="1744" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-1" value="校园图书馆管理系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="734" y="20" width="204" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-2" value="读者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="159" width="92" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-3" value="图书馆工作人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="426" y="159" width="172" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-4" value="校园统一认证系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="742" y="159" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-5" value="短信服务平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="998" y="159" width="157" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="1M_rt-C1BD9oTmkWz8xi-6" value="微信公众号平台/APP服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1205" y="159" width="256" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-7" value="借阅/查询/预约/续借请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.91;exitY=0;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-2" target="1M_rt-C1BD9oTmkWz8xi-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="233" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-8" value="借阅结果/查询结果/提醒信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.1;entryY=0;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-1" target="1M_rt-C1BD9oTmkWz8xi-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="20" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-9" value="馆藏更新/盘点/异常处理请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.69;exitY=0;entryX=0.11;entryY=0.99;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-3" target="1M_rt-C1BD9oTmkWz8xi-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="607" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-10" value="更新结果/统计报表" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.84;entryX=0.31;entryY=0;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-1" target="1M_rt-C1BD9oTmkWz8xi-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="418" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-11" value="身份验证请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.39;exitY=0.99;entryX=0.39;entryY=0;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-1" target="1M_rt-C1BD9oTmkWz8xi-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="775" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-12" value="身份验证结果" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=0;entryX=0.6;entryY=0.99;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-4" target="1M_rt-C1BD9oTmkWz8xi-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="896" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-13" value="短信发送请求" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.99;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-1" target="1M_rt-C1BD9oTmkWz8xi-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1016" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-14" value="短信发送状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0;entryX=1;entryY=0.96;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-5" target="1M_rt-C1BD9oTmkWz8xi-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1145" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-15" value="推送消息请求" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.83;entryX=0.41;entryY=0;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-1" target="1M_rt-C1BD9oTmkWz8xi-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1265" y="114" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1M_rt-C1BD9oTmkWz8xi-16" value="推送状态" style="curved=1;startArrow=none;endArrow=block;exitX=0.57;exitY=0;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="1M_rt-C1BD9oTmkWz8xi-6" target="1M_rt-C1BD9oTmkWz8xi-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1385" y="114" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="1M_rt-C1BD9oTmkWz8xi-17" value="提供高效优质的图书馆服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2731" y="230" width="253" height="49" as="geometry" />
