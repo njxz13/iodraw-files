@@ -37,14 +37,16 @@
         <mxCell id="mTwptsPJfQQJ-D1Pyjui-12" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;优化借阅流程时间&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTwptsPJfQQJ-D1Pyjui-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mTwptsPJfQQJ-D1Pyjui-13" target="mTwptsPJfQQJ-D1Pyjui-14">
+        <mxCell id="mTwptsPJfQQJ-D1Pyjui-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mTwptsPJfQQJ-D1Pyjui-13" target="mTwptsPJfQQJ-D1Pyjui-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mTwptsPJfQQJ-D1Pyjui-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mTwptsPJfQQJ-D1Pyjui-13" target="mTwptsPJfQQJ-D1Pyjui-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTwptsPJfQQJ-D1Pyjui-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="350" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="mTwptsPJfQQJ-D1Pyjui-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
