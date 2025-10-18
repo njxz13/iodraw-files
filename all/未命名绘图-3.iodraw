@@ -10,14 +10,11 @@
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-2" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;实现自助借阅功能&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-6" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-18" target="U-y_Ujw5soUSw6VZsaEI-1">
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-6" value="" style="endArrow=classic;html=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="U-y_Ujw5soUSw6VZsaEI-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="290" y="700" as="sourcePoint" />
+            <mxPoint x="380" y="710" as="sourcePoint" />
             <mxPoint x="390" y="700" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-18" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="680" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-20" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;开发移动终端借阅APP&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="890" width="120" height="60" as="geometry" />
@@ -34,10 +31,10 @@
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-27" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;单本图书借阅耗时≤2分钟&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.181;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-2" target="U-y_Ujw5soUSw6VZsaEI-18">
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.181;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="740" as="sourcePoint" />
-            <mxPoint x="390" y="710" as="targetPoint" />
+            <mxPoint x="380" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-29" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;提高归还提醒及时性&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -194,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="740" y="1050" width="80" height="80" as="geometry" />
+          <mxGeometry x="740" y="1120" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
