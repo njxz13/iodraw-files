@@ -163,6 +163,12 @@
             <mxPoint x="290" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-58" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.856;entryY=0.92;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-50" target="U-y_Ujw5soUSw6VZsaEI-45">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="410" y="1170" as="sourcePoint" />
+            <mxPoint x="470" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
