@@ -55,12 +55,6 @@
             <mxPoint x="360" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-37" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-21" target="U-y_Ujw5soUSw6VZsaEI-2">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="440" y="840" as="sourcePoint" />
-            <mxPoint x="500" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-38" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.425;entryY=0.944;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-31" target="U-y_Ujw5soUSw6VZsaEI-30">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="930" y="850" as="sourcePoint" />
@@ -181,8 +175,14 @@
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-69" target="U-y_Ujw5soUSw6VZsaEI-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-69" target="U-y_Ujw5soUSw6VZsaEI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="690" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-72" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="810" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
