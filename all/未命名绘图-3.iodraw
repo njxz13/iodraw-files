@@ -22,7 +22,7 @@
         <mxCell id="mTwptsPJfQQJ-D1Pyjui-4" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;借阅效率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mTwptsPJfQQJ-D1Pyjui-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mTwptsPJfQQJ-D1Pyjui-7" target="mTwptsPJfQQJ-D1Pyjui-29">
+        <mxCell id="mTwptsPJfQQJ-D1Pyjui-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mTwptsPJfQQJ-D1Pyjui-7" target="mTwptsPJfQQJ-D1Pyjui-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mTwptsPJfQQJ-D1Pyjui-7" value="&lt;span style=&quot;font-weight: 600; color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;提醒及时性&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
