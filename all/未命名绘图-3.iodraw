@@ -100,10 +100,16 @@
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-42" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;─ 逾期提醒覆盖率达100%&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="900" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-43" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="U-y_Ujw5soUSw6VZsaEI-41">
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-43" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;exitX=0.384;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-42" target="U-y_Ujw5soUSw6VZsaEI-41">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="1400" y="850" as="sourcePoint" />
             <mxPoint x="1460" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-44" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="1310" y="710" as="sourcePoint" />
+            <mxPoint x="1370" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
