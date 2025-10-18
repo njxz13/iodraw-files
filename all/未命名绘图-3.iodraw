@@ -293,16 +293,10 @@
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-32" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap: wrap; word-break: break-all; padding: 16px; color: rgb(15, 17, 21); text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;逾期后12小时内发送提醒&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-33" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="360" y="1120" as="sourcePoint" />
-            <mxPoint x="440" y="1120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-34" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-34" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="U-y_Ujw5soUSw6VZsaEI-25">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="510" y="1110" as="sourcePoint" />
-            <mxPoint x="570" y="1110" as="targetPoint" />
+            <mxPoint x="600" y="860" as="sourcePoint" />
+            <mxPoint x="660" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
