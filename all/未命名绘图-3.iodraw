@@ -111,8 +111,14 @@
         <mxCell id="mTwptsPJfQQJ-D1Pyjui-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="530" y="370" width="10" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="mTwptsPJfQQJ-D1Pyjui-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mTwptsPJfQQJ-D1Pyjui-39" target="mTwptsPJfQQJ-D1Pyjui-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mTwptsPJfQQJ-D1Pyjui-39" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;提高提醒覆盖率&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mTwptsPJfQQJ-D1Pyjui-43" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 15px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;图书馆管理系统&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="555" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
