@@ -193,8 +193,8 @@
             <mxPoint x="800" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y_Ujw5soUSw6VZsaEI-63" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1220" width="50" height="300" as="geometry" />
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-65" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="740" y="1050" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
