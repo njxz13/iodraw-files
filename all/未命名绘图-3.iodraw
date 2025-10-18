@@ -178,8 +178,11 @@
             <mxPoint x="800" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="U-y_Ujw5soUSw6VZsaEI-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-y_Ujw5soUSw6VZsaEI-69" target="U-y_Ujw5soUSw6VZsaEI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-69" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="720" width="20" height="20" as="geometry" />
+          <mxGeometry x="360" y="690" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
