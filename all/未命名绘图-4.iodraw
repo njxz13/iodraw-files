@@ -7,21 +7,6 @@
         <mxCell id="U-y_Ujw5soUSw6VZsaEI-85" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry width="40" as="geometry" />
         </mxCell>
-        <mxCell id="NTct7yU1uOtXTKSnV1aS-2" value="系统参与者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="760" width="813" height="467" as="geometry" />
-        </mxCell>
-        <mxCell id="NTct7yU1uOtXTKSnV1aS-8" value="校园统一认证系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1154" width="188" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="NTct7yU1uOtXTKSnV1aS-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="NTct7yU1uOtXTKSnV1aS-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2515" y="1104" />
-              <mxPoint x="427" y="1129" />
-            </Array>
-            <mxPoint x="2515" y="1079" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NTct7yU1uOtXTKSnV1aS-42" value="读者" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1250" width="92" height="49" as="geometry" />
         </mxCell>
