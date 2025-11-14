@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="lA4v5ta_gP_E8ftCJrEl">
-    <mxGraphModel dx="2442" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="2035" dy="1372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="511" y="1349" width="141" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NTct7yU1uOtXTKSnV1aS-47" value="校园统一认证系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="931" y="1569" width="188" height="49" as="geometry" />
+          <mxGeometry x="931" y="1930" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NTct7yU1uOtXTKSnV1aS-48" value="借阅图书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="701" y="1349" width="124" height="49" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="2271" y="1349" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NTct7yU1uOtXTKSnV1aS-61" value="触发身份认证" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="947" y="1470" width="156" height="49" as="geometry" />
+          <mxGeometry x="940" y="1740" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NTct7yU1uOtXTKSnV1aS-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NTct7yU1uOtXTKSnV1aS-42" target="NTct7yU1uOtXTKSnV1aS-48">
           <mxGeometry relative="1" as="geometry">
