@@ -43,6 +43,9 @@
         <mxCell id="yhR3k1g41msB-6gVIMWY-1" value="处理借书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="64Q13i-fq7K24_SnJbMi-4">
           <mxGeometry x="54.75" y="310" width="124" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yhR3k1g41msB-6gVIMWY-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="64Q13i-fq7K24_SnJbMi-4">
+          <mxGeometry x="57" y="360" width="125" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="64Q13i-fq7K24_SnJbMi-6" value="校园图书馆管理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="465" y="38" width="130" height="30" as="geometry" />
         </mxCell>
