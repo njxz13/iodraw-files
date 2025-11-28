@@ -93,14 +93,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2NT7ll5EVH66PFI2lsTh-26" value="后端服务层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="550" width="110" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-29" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="670" width="740" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="2NT7ll5EVH66PFI2lsTh-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="680" width="120" height="20" as="geometry" />
+        <mxCell id="2NT7ll5EVH66PFI2lsTh-30" value="后端" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="680" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
