@@ -203,6 +203,9 @@
         <mxCell id="NTct7yU1uOtXTKSnV1aS-53" value="查看个人借阅记录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1420" width="188" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="2NT7ll5EVH66PFI2lsTh-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="166" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
