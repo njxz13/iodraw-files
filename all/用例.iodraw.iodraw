@@ -40,13 +40,13 @@
         <mxCell id="64Q13i-fq7K24_SnJbMi-19" value="预约借阅" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="50" y="670" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-1" value="处理借书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="64Q13i-fq7K24_SnJbMi-4">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-1" value="处理借书" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="58" y="330" width="124" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-2" value="处理还书" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="64Q13i-fq7K24_SnJbMi-4">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-2" value="处理还书" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="57" y="385" width="125" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-5" value="库存管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="64Q13i-fq7K24_SnJbMi-4">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-5" value="库存管理" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="48" y="150" width="144" height="30" as="geometry" />
         </mxCell>
         <mxCell id="64Q13i-fq7K24_SnJbMi-6" value="校园图书馆管理系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -100,25 +100,25 @@
             <mxPoint x="340" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yhR3k1g41msB-6gVIMWY-1">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="yhR3k1g41msB-6gVIMWY-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="390" as="sourcePoint" />
             <mxPoint x="370" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="yhR3k1g41msB-6gVIMWY-2">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="yhR3k1g41msB-6gVIMWY-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="390" as="sourcePoint" />
             <mxPoint x="370" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="450" as="sourcePoint" />
             <mxPoint x="620" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yhR3k1g41msB-6gVIMWY-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yhR3k1g41msB-6gVIMWY-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="64Q13i-fq7K24_SnJbMi-1" target="yhR3k1g41msB-6gVIMWY-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="280" as="sourcePoint" />
             <mxPoint x="340" y="230" as="targetPoint" />
