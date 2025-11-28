@@ -111,8 +111,8 @@
             <mxPoint x="370" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2NT7ll5EVH66PFI2lsTh-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="810" width="120" height="60" as="geometry" />
+        <mxCell id="2NT7ll5EVH66PFI2lsTh-34" value="数据库(mysql)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="810" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
