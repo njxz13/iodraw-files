@@ -105,11 +105,14 @@
         <mxCell id="2NT7ll5EVH66PFI2lsTh-32" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="760" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2NT7ll5EVH66PFI2lsTh-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2NT7ll5EVH66PFI2lsTh-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2NT7ll5EVH66PFI2lsTh-32" target="2NT7ll5EVH66PFI2lsTh-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="800" as="sourcePoint" />
             <mxPoint x="370" y="750" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2NT7ll5EVH66PFI2lsTh-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
