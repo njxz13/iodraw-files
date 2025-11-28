@@ -204,36 +204,42 @@
           <mxGeometry x="1200" y="1420" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-1" value="矿洞物理环境" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="543" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-2" value="瓦斯" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="60" height="40" as="geometry" />
+          <mxGeometry x="413" y="410" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-3" value="温度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="240" width="50" height="40" as="geometry" />
+          <mxGeometry x="563" y="410" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-4" value="风速" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="240" width="60" height="40" as="geometry" />
+          <mxGeometry x="673" y="410" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-5" value="粉尘浓度" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="240" width="59" height="40" as="geometry" />
+          <mxGeometry x="803" y="410" width="59" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.617;exitY=0.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2NT7ll5EVH66PFI2lsTh-2" target="2NT7ll5EVH66PFI2lsTh-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="200" as="sourcePoint" />
-            <mxPoint x="540" y="150" as="targetPoint" />
+            <mxPoint x="473" y="370" as="sourcePoint" />
+            <mxPoint x="523" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-8" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2NT7ll5EVH66PFI2lsTh-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="190" as="sourcePoint" />
-            <mxPoint x="630" y="140" as="targetPoint" />
+            <mxPoint x="563" y="360" as="sourcePoint" />
+            <mxPoint x="613" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2NT7ll5EVH66PFI2lsTh-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="2NT7ll5EVH66PFI2lsTh-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="190" as="sourcePoint" />
-            <mxPoint x="660" y="140" as="targetPoint" />
+            <mxPoint x="593" y="360" as="sourcePoint" />
+            <mxPoint x="643" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NT7ll5EVH66PFI2lsTh-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.931;exitY=0.956;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.277;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2NT7ll5EVH66PFI2lsTh-1" target="2NT7ll5EVH66PFI2lsTh-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="693" y="370" as="sourcePoint" />
+            <mxPoint x="743" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
