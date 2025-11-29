@@ -1,6 +1,6 @@
 <mxfile host="" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="校园图书馆管理系统完整目标模型 (KAOS)" id="I-9aUqlBFbCuLdrOcrnk">
-    <mxGraphModel dx="1878" dy="2866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="3078" dy="2866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -169,13 +169,10 @@
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-59" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillStyle=solid;direction=west;gradientDirection=north;shadow=1;size=20;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="-140" width="180" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="DqdZ3qc2BZnN5jb5scSf-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="DqdZ3qc2BZnN5jb5scSf-59">
+        <mxCell id="DqdZ3qc2BZnN5jb5scSf-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="-50" as="sourcePoint" />
-            <mxPoint x="170" y="-100" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="-60" />
-            </Array>
+            <mxPoint x="-10" y="300" as="sourcePoint" />
+            <mxPoint x="30" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
