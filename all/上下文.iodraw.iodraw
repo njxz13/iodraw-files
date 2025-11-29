@@ -28,6 +28,11 @@
             <mxPoint x="420" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-10" value="查询/预约/续借请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-9">
+          <mxGeometry x="-0.1042" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
