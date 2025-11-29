@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-52" value="图例:&#xa;○ 软目标 (Max/Min/Avoid)&#xa;◇ 功能目标&#xa;→ 精化关系&#xa;+ ++ 贡献&#xa;- -- 负面贡献&#xa;X 冲突" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="180" width="200" height="100" as="geometry" />
+          <mxGeometry x="1010" y="190" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
