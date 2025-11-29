@@ -121,10 +121,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feleoWYIt0I76xYze2CT-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="feleoWYIt0I76xYze2CT-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.369;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="feleoWYIt0I76xYze2CT-5" target="feleoWYIt0I76xYze2CT-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="550" as="sourcePoint" />
             <mxPoint x="980" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-30" value="短信发送状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-29">
+          <mxGeometry x="-0.4456" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
