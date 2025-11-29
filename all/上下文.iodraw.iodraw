@@ -99,10 +99,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feleoWYIt0I76xYze2CT-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="feleoWYIt0I76xYze2CT-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.847;exitY=1.011;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="feleoWYIt0I76xYze2CT-4" target="feleoWYIt0I76xYze2CT-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="850" y="410" as="sourcePoint" />
             <mxPoint x="900" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-26" value="身份验证结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-25">
+          <mxGeometry x="-0.4884" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
