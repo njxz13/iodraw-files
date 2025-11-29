@@ -41,31 +41,31 @@
           <mxGeometry x="420" y="410" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-13" value="F1: 采访与资源建设" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-14" value="F2: 编目与资源加工" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-15" value="F3: 流通管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="710" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-16" value="F4: 期刊管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-17" value="F5: 公共查询(OPAC)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-18" value="F6: 读者服务与信用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="420" y="570" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="550" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-19" value="F7: 空间与设备预约" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="450" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-20" value="F8: 参考咨询与学科服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="320" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-21" value="F9: 数据统计与决策支持" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="420" y="620" width="80" height="40" as="geometry" />
+          <mxGeometry x="650" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-22" value="F10: 系统管理与安全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="660" width="80" height="40" as="geometry" />
