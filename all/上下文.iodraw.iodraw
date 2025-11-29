@@ -72,9 +72,15 @@
             <mxPoint x="660" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feleoWYIt0I76xYze2CT-19" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-18">
-          <mxGeometry x="0.0957" relative="1" as="geometry">
+        <mxCell id="feleoWYIt0I76xYze2CT-20" value="更新结果/统计报表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-18">
+          <mxGeometry x="0.5748" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="240" as="sourcePoint" />
+            <mxPoint x="730" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
