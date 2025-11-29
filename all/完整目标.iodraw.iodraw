@@ -23,7 +23,7 @@
           <mxGeometry x="520" y="260" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-7" value="B3: 资源利用效率提升" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="770" y="290" width="60" height="40" as="geometry" />
+          <mxGeometry x="980" y="550" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-8" value="软目标&#xa;(Soft Goals: Max/Min/Avoid)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="270" y="320" width="400" height="60" as="geometry" />
