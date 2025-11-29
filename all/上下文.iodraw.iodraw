@@ -110,6 +110,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.008;entryY=0.389;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="feleoWYIt0I76xYze2CT-1" target="feleoWYIt0I76xYze2CT-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="520" as="sourcePoint" />
+            <mxPoint x="760" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
