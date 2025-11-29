@@ -39,7 +39,7 @@
             <mxPoint x="310" y="320.0048387096773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feleoWYIt0I76xYze2CT-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-12">
+        <mxCell id="feleoWYIt0I76xYze2CT-13" value="借阅/查询结果/提醒信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-12">
           <mxGeometry x="-0.3838" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
