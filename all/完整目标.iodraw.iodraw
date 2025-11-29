@@ -26,16 +26,16 @@
           <mxGeometry x="1150" y="240" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-8" value="软目标&#xa;(Soft Goals: Max/Min/Avoid)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="400" y="200" width="400" height="60" as="geometry" />
+          <mxGeometry x="420" y="200" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-9" value="Max[工作效率]&#xa;借还效率" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="320" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-10" value="Max[读者满意度]&#xa;服务体验" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="530" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-11" value="Avoid[数据泄露]" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="520" y="390" width="80" height="40" as="geometry" />
+          <mxGeometry x="690" y="310" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-12" value="功能目标&#xa;(Functional Goals)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="400" height="60" as="geometry" />
