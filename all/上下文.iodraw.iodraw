@@ -33,7 +33,7 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="feleoWYIt0I76xYze2CT-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="feleoWYIt0I76xYze2CT-2">
+        <mxCell id="feleoWYIt0I76xYze2CT-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.15;entryY=0.967;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="feleoWYIt0I76xYze2CT-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="420.65" as="sourcePoint" />
             <mxPoint x="310" y="320.0048387096773" as="targetPoint" />
@@ -42,6 +42,12 @@
         <mxCell id="feleoWYIt0I76xYze2CT-13" value="借阅/查询结果/提醒信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="feleoWYIt0I76xYze2CT-12">
           <mxGeometry x="-0.3838" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="610" as="sourcePoint" />
+            <mxPoint x="430" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
