@@ -163,6 +163,9 @@
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-52" value="图例:&#xa;○ 软目标 (Max/Min/Avoid)&#xa;◇ 功能目标&#xa;→ 精化关系&#xa;+ ++ 贡献&#xa;- -- 负面贡献&#xa;X 冲突" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1390" y="-180" width="200" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="DqdZ3qc2BZnN5jb5scSf-57" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
