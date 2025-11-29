@@ -80,13 +80,13 @@
           <mxGeometry x="370" y="720" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-26" value="I1: 高可用，高并发&#xa;响应时间 ≤2s" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="330" y="830" width="120" height="70" as="geometry" />
+          <mxGeometry x="210" y="930" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-27" value="I2: 开放可扩展&#xa;微服务架构" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="510" y="825" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-28" value="I3: 数据标准化&#xa;遵循MARC21等" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="620" y="790" width="110" height="80" as="geometry" />
+          <mxGeometry x="690" y="825" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DqdZ3qc2BZnN5jb5scSf-2" target="DqdZ3qc2BZnN5jb5scSf-5">
           <mxGeometry relative="1" as="geometry" />
