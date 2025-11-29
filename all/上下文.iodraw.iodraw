@@ -19,6 +19,9 @@
         <mxCell id="feleoWYIt0I76xYze2CT-5" value="短信服务平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-6" value="微信公众号/app服务器/web服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
