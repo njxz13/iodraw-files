@@ -7,9 +7,6 @@
         <mxCell id="feleoWYIt0I76xYze2CT-1" value="校园图书馆管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="370" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="feleoWYIt0I76xYze2CT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="feleoWYIt0I76xYze2CT-2" target="feleoWYIt0I76xYze2CT-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="feleoWYIt0I76xYze2CT-2" value="读者" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="220" width="100" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +21,12 @@
         </mxCell>
         <mxCell id="feleoWYIt0I76xYze2CT-6" value="微信公众号/app服务器/web服务器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="feleoWYIt0I76xYze2CT-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="feleoWYIt0I76xYze2CT-2" target="feleoWYIt0I76xYze2CT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="350" as="sourcePoint" />
+            <mxPoint x="420" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
