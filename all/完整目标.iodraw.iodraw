@@ -68,13 +68,13 @@
           <mxGeometry x="420" y="620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-22" value="F10: 系统管理与安全" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="220" y="670" width="80" height="40" as="geometry" />
+          <mxGeometry x="90" y="660" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-23" value="F11: 移动与微信服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-24" value="F12: 第三方系统集成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="420" y="670" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-25" value="信息系统目标&#xa;(System Quality Goals)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="400" height="60" as="geometry" />
@@ -86,7 +86,7 @@
           <mxGeometry x="210" y="960" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-28" value="I3: 数据标准化&#xa;遵循MARC21等" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="690" y="650" width="110" height="80" as="geometry" />
+          <mxGeometry x="960" y="680" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DqdZ3qc2BZnN5jb5scSf-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="DqdZ3qc2BZnN5jb5scSf-2" target="DqdZ3qc2BZnN5jb5scSf-5">
           <mxGeometry relative="1" as="geometry" />
