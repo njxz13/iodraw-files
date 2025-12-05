@@ -21,20 +21,14 @@
         <mxCell id="17qrqOOuJK33Mo05qwBw-5" value="-borrowPerm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-1">
           <mxGeometry y="110" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="17qrqOOuJK33Mo05qwBw-6" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.547;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="17qrqOOuJK33Mo05qwBw-5">
+        <mxCell id="17qrqOOuJK33Mo05qwBw-6" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.547;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17qrqOOuJK33Mo05qwBw-7" target="17qrqOOuJK33Mo05qwBw-5">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="470" y="450" as="sourcePoint" />
             <mxPoint x="410" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17qrqOOuJK33Mo05qwBw-7" value="Librarian" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="460" width="140" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="17qrqOOuJK33Mo05qwBw-8" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-7">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="17qrqOOuJK33Mo05qwBw-9" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-7">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+          <mxGeometry x="400" y="460" width="140" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
