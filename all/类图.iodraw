@@ -31,7 +31,7 @@
           <mxGeometry x="400" y="460" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="17qrqOOuJK33Mo05qwBw-11" value="BorrowRecord" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="170" width="140" height="182" as="geometry" />
+          <mxGeometry x="720" y="150" width="140" height="182" as="geometry" />
         </mxCell>
         <mxCell id="17qrqOOuJK33Mo05qwBw-12" value="-recordId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-11">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -69,7 +69,7 @@
         <mxCell id="17qrqOOuJK33Mo05qwBw-24" value="-stock" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-19">
           <mxGeometry y="130" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="17qrqOOuJK33Mo05qwBw-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="17qrqOOuJK33Mo05qwBw-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.986;exitY=0.821;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.007;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="17qrqOOuJK33Mo05qwBw-3" target="17qrqOOuJK33Mo05qwBw-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="200" as="sourcePoint" />
             <mxPoint x="650" y="150" as="targetPoint" />
