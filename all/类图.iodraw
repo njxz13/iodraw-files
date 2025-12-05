@@ -21,7 +21,7 @@
         <mxCell id="17qrqOOuJK33Mo05qwBw-5" value="-borrowPerm" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-1">
           <mxGeometry y="110" width="120" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="17qrqOOuJK33Mo05qwBw-43" value="+ item: attribute" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-1">
+        <mxCell id="17qrqOOuJK33Mo05qwBw-43" value="-maxBorrowNum" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-1">
           <mxGeometry y="136" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="17qrqOOuJK33Mo05qwBw-6" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;entryX=0.547;entryY=0.949;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
