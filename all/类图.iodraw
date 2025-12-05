@@ -2,10 +2,12 @@
   <diagram name="第 1 页" id="9E-1G_-FMA11EzfJ50Cf">
     <mxGraphModel dx="1221" dy="823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" borrowPerm="-" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
         <mxCell id="17qrqOOuJK33Mo05qwBw-1" value="User" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="170" width="170" height="130" as="geometry" />
+          <mxGeometry x="410" y="170" width="170" height="110" as="geometry" />
         </mxCell>
         <mxCell id="17qrqOOuJK33Mo05qwBw-2" value="-userId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-1">
           <mxGeometry y="26" width="170" height="26" as="geometry" />
@@ -14,7 +16,7 @@
           <mxGeometry y="52" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="17qrqOOuJK33Mo05qwBw-4" value="-email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="17qrqOOuJK33Mo05qwBw-1">
-          <mxGeometry y="78" width="170" height="52" as="geometry" />
+          <mxGeometry y="78" width="170" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
