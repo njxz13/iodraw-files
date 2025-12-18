@@ -41,7 +41,7 @@
           <mxGeometry x="50" y="310" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yhR3k1g41msB-6gVIMWY-2" value="处理还书" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
-          <mxGeometry x="57" y="385" width="125" height="50" as="geometry" />
+          <mxGeometry x="46.5" y="350" width="125" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yhR3k1g41msB-6gVIMWY-5" value="库存管理" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="38" y="125" width="144" height="30" as="geometry" />
@@ -108,6 +108,9 @@
             <mxPoint x="290" y="280" as="sourcePoint" />
             <mxPoint x="340" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4-Q1C8LjhiO-sUDbyiKr-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="370" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
