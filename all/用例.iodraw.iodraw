@@ -19,9 +19,6 @@
         <mxCell id="64Q13i-fq7K24_SnJbMi-7" value="管理用户" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="59" y="60" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="64Q13i-fq7K24_SnJbMi-8" value="维护系统" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
-          <mxGeometry x="53.5" y="110" width="126" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="64Q13i-fq7K24_SnJbMi-9" value="管理图书" style="ellipse;whiteSpace=wrap;html=1;" parent="64Q13i-fq7K24_SnJbMi-4" vertex="1">
           <mxGeometry x="44" y="220" width="130" height="30" as="geometry" />
         </mxCell>
@@ -58,10 +55,10 @@
             <mxPoint x="310" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="64Q13i-fq7K24_SnJbMi-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="64Q13i-fq7K24_SnJbMi-1" target="64Q13i-fq7K24_SnJbMi-8" edge="1">
+        <mxCell id="64Q13i-fq7K24_SnJbMi-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="64Q13i-fq7K24_SnJbMi-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="210" as="sourcePoint" />
-            <mxPoint x="350" y="160" as="targetPoint" />
+            <mxPoint x="473.5" y="165" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="64Q13i-fq7K24_SnJbMi-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0.376;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="64Q13i-fq7K24_SnJbMi-9" edge="1">
