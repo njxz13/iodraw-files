@@ -144,6 +144,12 @@
             <mxPoint x="350" y="409.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7QEeiPTToKPkPbfBge3j-2" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="570" y="420" as="sourcePoint" />
+            <mxPoint x="730" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
