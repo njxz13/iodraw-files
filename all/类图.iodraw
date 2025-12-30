@@ -169,7 +169,7 @@
           <mxGeometry y="110" width="120" height="26" as="geometry" />
         </mxCell>
         <mxCell id="7QEeiPTToKPkPbfBge3j-24" value="Librarian" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1236" width="140" height="52" as="geometry" />
+          <mxGeometry x="950" y="1180" width="140" height="52" as="geometry" />
         </mxCell>
         <mxCell id="7QEeiPTToKPkPbfBge3j-25" value="BorrowRecord" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1230" y="923" width="140" height="182" as="geometry" />
